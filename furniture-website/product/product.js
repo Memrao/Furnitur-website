@@ -5,11 +5,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Navigation links
     const navLinks = [
-        { href: '../home/home.html', text: 'HOME' },
-        { href: '../home/home.html', text: 'SERVICES' },
-        { href: '../home/home.html', text: 'ABOUT' },
+        { href: 'index.html', text: 'HOME' },
+        { href: 'index.html', text: 'SERVICES' },
+        { href: '.index.html', text: 'ABOUT' },
         { href: '../product-listing/product-listing.html', text: 'SHOP' },
-        { href: '../home/home.html', text: 'CONTACT' }
+        { href: 'index.html', text: 'CONTACT' }
     ];
 
     // Get the navList element from the DOM
